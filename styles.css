@@ -1,0 +1,58 @@
+h1{
+	font-size: 40px;
+	font-family: Helvetica;
+}
+
+h2{
+	font-family: Helvetica;
+}
+
+
+h3{
+	font-family:Helvetica;
+	background:
+}
+
+h4{
+	font-size: 16px;
+	font-family:Helvetica;
+}
+
+.img-caption{
+	font-family: Helvetica;
+	font-size: 13px;
+}
+
+.main-img img{
+	width: 600px;
+	max-width: 100%;
+}
+
+.body-text{
+	font-size:16px;
+	font-family:Helvetica;
+	text-align: left;
+	background-color: white;
+	padding-top: 7px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 7px;
+	margin-left: 100px;
+	margin-right: 100px;
+	min-width: 80%
+}
+
+@media only screen and (max-width:640px) {
+  .body-text {
+    margin: 10px;
+  }
+}
+
+.bottomtext p{
+	font-size: 12px;
+	font-family:Helvetica;
+}
+
+body{
+	background-color: #EADECF;
+}
